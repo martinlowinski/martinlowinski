@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm an entrepreneur, greentech enthusiast, co-founder of metergrid, computer scientist (PhD).
+
+**Latest posts from [halfthetruth.de](https://halfthetruth.de)**
+- [Local Pollen Forecast as Web-Calendar](https://halfthetruth.de/2024/05/17/pollencal/)
+- [Monitoring energy data with the Powerfox Exporter](https://halfthetruth.de/2024/02/07/powerfox-exporter/)
+
+Follow me on [Twitter](https://twitter.com/molowinski), [LinkedIn](https://www.linkedin.com/in/molowinski/) or read posts on my [personal blog](https://halfthetruth.de).
+
 <!--
 **martinlowinski/martinlowinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
