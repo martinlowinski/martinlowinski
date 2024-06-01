@@ -6,6 +6,10 @@ I'm an entrepreneur, greentech enthusiast, co-founder of metergrid, computer sci
 - [Local Pollen Forecast as Web-Calendar](https://halfthetruth.de/2024/05/17/pollencal/)
 - [Monitoring energy data with the Powerfox Exporter](https://halfthetruth.de/2024/02/07/powerfox-exporter/)
 
+**Latest side projects**
+- [pollencal.com](https://pollencal.com)
+- [powerfox-exporter](https://github.com/martinlowinski/powerfox-exporter)
+
 Follow me on [Twitter](https://twitter.com/molowinski), [LinkedIn](https://www.linkedin.com/in/molowinski/) or read posts on my [personal blog](https://halfthetruth.de).
 
 <!--
