@@ -10,7 +10,7 @@ I'm an entrepreneur, greentech enthusiast, co-founder of metergrid, computer sci
 - [pollencal.com](https://pollencal.com)
 - [powerfox-exporter](https://github.com/martinlowinski/powerfox-exporter)
 
-Follow me on [Twitter](https://twitter.com/molowinski), [LinkedIn](https://www.linkedin.com/in/molowinski/) or read posts on my [personal blog](https://halfthetruth.de).
+Follow me on [Mastodon](https://troet.cafe/@molowinski), [LinkedIn](https://www.linkedin.com/in/molowinski/) or read posts on my [personal blog](https://halfthetruth.de).
 
 <!--
 **martinlowinski/martinlowinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
