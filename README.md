@@ -7,9 +7,9 @@ I'm an entrepreneur, greentech enthusiast, co-founder of metergrid, computer sci
 - [Monitoring energy data with the Powerfox Exporter](https://halfthetruth.de/2024/02/07/powerfox-exporter/)
 
 **Latest side projects**
-- [pollencal.com](https://pollencal.com)
-- [powerfox-exporter](https://github.com/martinlowinski/powerfox-exporter)
-- [keyroles.org](https://keyroles.org)
+- [pollencal.com](https://pollencal.com), a emoji-first calender feed for pollen forecasts
+- [powerfox-exporter](https://github.com/martinlowinski/powerfox-exporter), an exporter of energy metrics from powerfox for prometheus
+- [keyroles.org](https://keyroles.org), agil organization management tool
 
 Follow me on [Mastodon](https://troet.cafe/@molowinski), [LinkedIn](https://www.linkedin.com/in/molowinski/) or read posts on my [personal blog](https://halfthetruth.de).
 
