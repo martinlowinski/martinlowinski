@@ -6,7 +6,7 @@ I'm an entrepreneur, greentech enthusiast, co-founder of metergrid, computer sci
 - [Local Pollen Forecast as Web-Calendar](https://halfthetruth.de/2024/05/17/pollencal/)
 - [Monitoring energy data with the Powerfox Exporter](https://halfthetruth.de/2024/02/07/powerfox-exporter/)
 
-**Latest side projects**
+**Latest projects**
 - [pollencal.com](https://pollencal.com), a emoji-first calender feed for pollen forecasts
 - [powerfox-exporter](https://github.com/martinlowinski/powerfox-exporter), an exporter of energy metrics from powerfox for prometheus
 - [keyroles.org](https://keyroles.org), agil organization management tool
